@@ -1,3 +1,3 @@
 class MemberSerializer < ActiveModel::Serializer
-  attributes :id, :name
+  attributes :band_id, :name
 end
